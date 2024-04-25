@@ -1,0 +1,30 @@
+@charset "utf-8";
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    background-image: url(url);
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+}
+.row .col-lg-6 {
+    background-color: #9F2525;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+.row .col-lg-3  {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,0,0,1.00) 50.57%,rgba(63,63,63,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,0,0,1.00) 50.57%,rgba(63,63,63,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,0,0,1.00) 50.57%,rgba(63,63,63,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,0,0,1.00) 50.57%,rgba(63,63,63,1.00) 100%);
+    color: #FFFFFF;
+}
+
+
+
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,0,0,1.00) 48.91%,rgba(0,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,0,0,1.00) 48.91%,rgba(0,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,0,0,1.00) 48.91%,rgba(0,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,0,0,1.00) 48.91%,rgba(0,0,0,1.00) 100%);
+}
